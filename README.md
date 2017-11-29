@@ -49,14 +49,17 @@ Illustrator file created and edited in Adobe CC 2015 Illustrator.
 
 ![Layers](layers.png)
 
-색상 변경 방법:
-1. 레이어 선택
+## 색상 변경 방법:
+
+### *1. 레이어 선택*
+
 ![Image1](images/tutorial1.png)
 
-2. 선택 완료
+### *2. 선택 완료*
+
 ![Image1](images/tutorial2.png)
 
-3. 레이어 색상 변경
+### *3. 레이어 색상 변경*
 ![Image1](images/tutorial3.png)
 
 
