@@ -43,11 +43,22 @@ Illustrator file created and edited in Adobe CC 2015 Illustrator.
 
 ## 실제 지도와 100% 일치하지는 않습니다
 
+파일은 [Ver 2.0](https://github.com/andrew-noh/SouthKoreaProvincesMapIllustrator/tree/master/Ver%202.0) 폴더 안에 있습니다.
+
 ## 레이어 구조
 
 ![Layers](layers.png)
 
-파일은 [Ver 2.0](https://github.com/andrew-noh/SouthKoreaProvincesMapIllustrator/tree/master/Ver%202.0) 폴더 안에 있습니다.
+색상 변경 방법:
+1. 레이어 선택
+![Image1](tutorial1.png)
+
+2. 선택 완료
+![Image1](tutorial2.png)
+
+3. 레이어 색상 변경
+![Image1](tutorial3.png)
+
 
 Adobe CC 2015 버전에서 하위 호환 버전으로 저장하였으나, 하위 버전에서 온전히 호환되지 않을 수 있습니다.
 
