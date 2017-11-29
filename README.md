@@ -7,7 +7,7 @@ Original source from [뿌리는블로그크리스탈뿌리오](http://mittya.tis
 
 Illustrator file created and edited in Adobe CC 2015 Illustrator.
 
-## Some layers of layer titles may not appear correctly in lower version of Illustrator!
+## Some layers or layer titles may not appear correctly in lower version of Illustrator!
 
 
 # Using Illustrator file for editing
