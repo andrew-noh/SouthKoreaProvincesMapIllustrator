@@ -47,7 +47,7 @@ Illustrator file created and edited in Adobe CC 2015 Illustrator.
 
 ![Layers](layers.png)
 
-파일은 v2 폴더 안에 있습니다.
+파일은 [Ver 2.0](https://github.com/andrew-noh/SouthKoreaProvincesMapIllustrator/tree/master/Ver%202.0) 폴더 안에 있습니다.
 
 Adobe CC 2015 버전에서 하위 호환 버전으로 저장하였으나, 하위 버전에서 온전히 호환되지 않을 수 있습니다.
 
